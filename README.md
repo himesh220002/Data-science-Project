@@ -1,1 +1,2 @@
-# Data-science-Project
+# Data-science-Internsip-Project
+Technologic pvt ltd.
